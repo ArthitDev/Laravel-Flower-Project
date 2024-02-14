@@ -1,0 +1,21 @@
+/*-----------------------------Font-Prompt--------------------------------*/
+@font-face {
+  font-family: "Prompt-Bold";
+  src: local("Prompt-Bold"), 
+  url("/font/Prompt-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Prompt-Medium";
+  src: local("Prompt-Medium"),
+    url("/font/Prompt-Medium.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Prompt-SemiBold";
+  src: local("Prompt-SemiBold"),
+    url("Font/Prompt-SemiBold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Prompt-Regular";
+  src: local("Prompt-Regular"),
+    url("font/Prompt-Regular.ttf") format("truetype");
+}
